@@ -1,0 +1,7 @@
+namePrefix: dev-
+
+bases:
+- ../../base
+
+patches:
+- env.yaml

@@ -1,0 +1,7 @@
+namePrefix: prd-
+
+bases:
+- ../../base
+
+patches:
+- env.yaml
